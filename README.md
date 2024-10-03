@@ -1,4 +1,5 @@
 Employee Management Application
+
 A full-stack web application that allows users to manage employees and departments within an organization. The application provides functionality to manage employees and departments within an organization, as well as to assign employees to specific departments. 
 
 Technologies used: 
